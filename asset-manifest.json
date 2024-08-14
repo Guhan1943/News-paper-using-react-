@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Guhan1943/Newspaper-using-react-.git/static/js/main.d9185d79.js",
-    "index.html": "/Guhan1943/Newspaper-using-react-.git/index.html",
-    "main.d9185d79.js.map": "/Guhan1943/Newspaper-using-react-.git/static/js/main.d9185d79.js.map"
+    "main.js": "/Newspaper-using-react-/static/js/main.d9185d79.js",
+    "index.html": "/Newspaper-using-react-/index.html",
+    "main.d9185d79.js.map": "/Newspaper-using-react-/static/js/main.d9185d79.js.map"
   },
   "entrypoints": [
     "static/js/main.d9185d79.js"
