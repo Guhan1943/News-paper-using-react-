@@ -1,0 +1,79 @@
+
+/* for content */
+table{
+  background-color: darkgrey;
+}
+table , th , tr ,td{
+  border: 1px black solid;
+  border-collapse: collapse;
+  padding: 8px;
+  font-size: 20px;
+  margin: 100px;
+}
+#form{
+  background-color: darkslategrey;
+  padding: 30px 20px 30px 20px;
+  position: relative;
+  margin-left: 500px;
+  margin-right: 600px;
+  
+}
+#form > label{
+  font-size: 20px;
+  margin: 10px;
+}
+#form >input{
+  /* width: 100%; */
+  margin: 10px;
+}
+
+
+
+
+
+/* header */
+#head{
+  display: flex;
+  background-color: antiquewhite;
+  width: 100%;
+}
+
+#head > div{
+  position: relative;
+  
+  padding: 10px 150px 10px 100px;
+  /* padding: 20px; */
+  font-size: 30px;
+  /* font-weight: 800; */
+  
+  
+}
+#head > div a{
+  text-decoration: none;
+  color: black;
+}
+
+/* for footer */
+
+#foot{
+  position: fixed;
+  bottom: 0px;
+}
+#foot{
+  display: flex;
+  background-color: antiquewhite;
+  width: 100%;
+}
+
+#foot > div{
+  position: relative;
+  
+  padding: 10px 20px 10px 20px;
+  font-size: 30px;
+  /* font-weight: 800; */
+  
+}
+
+#foot > div a{
+  text-decoration: none;
+}

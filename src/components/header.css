@@ -1,0 +1,14 @@
+#head{
+  display: flex;
+  background-color: antiquewhite;
+  width: 100%;
+}
+
+#head > div{
+  position: relative;
+  left: 50%;
+  padding: 30px;
+  font-size: 30px;
+  font-weight: 800;
+  
+}
